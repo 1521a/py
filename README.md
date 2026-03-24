@@ -30,7 +30,5 @@
 - **Python 3.7+**
 - Requests —— 网络请求
 - BeautifulSoup4 —— HTML 解析
-- PIL —— 验证码图片处理
-- SMTP —— 邮件通知
 
 ---
