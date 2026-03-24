@@ -12,6 +12,7 @@ import json
 import os
 import re
 
+"""   在ticket_config.json中填写信息  """
 
 class OptimizedTicketGrabber:
     def __init__(self, config_file='ticket_config.json'):
