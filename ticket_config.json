@@ -1,0 +1,12 @@
+{
+  "username": "",
+  "password": "",
+  "from_station": "大连北",
+  "to_station": "邯郸东",
+  "train_date": "2025-01-14",
+  "train_numbers": "G1293",
+  "seat_type": "二等座",
+  "passengers": [
+    "张三"
+  ]
+}
