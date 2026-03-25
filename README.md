@@ -2,6 +2,8 @@
 
 > 一个使用 Selenium 模拟浏览器操作的 12306 抢票实验脚本  
 > ⚠️ **仅供学习 Selenium 自动化技术使用，请勿用于实际抢票**
+> 
+>  **由于12306的反自动化脚本，本项目已经无法实现抢票**
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)]()
 [![Selenium](https://img.shields.io/badge/Selenium-4.x-green.svg)]()
